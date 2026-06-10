@@ -1,0 +1,20 @@
+{
+    "id": "Alife.Function.Mcp",
+    "name": "MCP接入",
+    "description": "使MCP协议可以通过函数调用接入到框架中",
+    "dependencies": {
+        "Alife.Function.FunctionCaller": ""
+    },
+    "environments": {
+        "nuget": {
+            "ModelContextProtocol.Core": ">=1.1.0"
+        }
+    },
+    "releases": {
+        "1.0.0": {
+            "date": "2026-6-10",
+            "note": "初始版本",
+            "file": ""
+        }
+    }
+}

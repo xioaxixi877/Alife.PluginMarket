@@ -1,0 +1,12 @@
+{
+    "id": "Alife.Function.FunctionCaller",
+    "name": "函数调用",
+    "description": "为开发者提供一种基于Xml的函数调用框架。",
+    "releases": {
+        "1.0.0": {
+            "date": "2026-6-10",
+            "note": "初始版本",
+            "file": ""
+        }
+    }
+}
