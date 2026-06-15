@@ -3,7 +3,7 @@
   "name": "IrmiaDevKit - 弥亚开发工具箱",
   "author": "Jiangtangxi",
   "maintainer": "Jiangtangxi",
-  "description": "适配新版Alife框架。将弥亚开发工具箱和KiraAI GitHub工具移植为Alife插件，提供46个Python开发工具",
+  "description": "适配新版Alife框架。将irmia_devkit_open和KiraAI GitHub工具移植为Alife插件，提供46个Python开发工具",
   "defaultCategory": "用户自制/开发工具",
   "releases": {
     "1.0.1": {
